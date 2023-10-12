@@ -1,0 +1,15 @@
+{
+    "bot_token": "",
+    "bot_status": "",
+    "capmonster_key": "",
+    "proxyless": true,
+    "field_name_invite": "",
+    "change_server_nick": true,
+    "server_nick": "",
+    "guildID": 0,
+    "ownerID": [],
+    "adminID": [],
+    "order_log_webhook": "",
+    "boost_log_webhook": "",
+    "boost_failed_log_webhook": ""
+}
