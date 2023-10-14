@@ -14,7 +14,7 @@ INSTALLATION GUIDE
 
 - Fill in the config
 
-Sellix:
+Sellix: 
 
 - Create a product named in this format: {Amount} Server Boosts [{Months} Months], example: 14 Server Boosts [3 Months]. This is important as the program will not detect the amount of boosts and for how many months the server needs to be boosted.
 - Set the maximum quantity to 1.
