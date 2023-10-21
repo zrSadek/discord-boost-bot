@@ -12,7 +12,7 @@ INSTALLATION GUIDE
 - Open ngrok and type 'ngrok http 6969'
 - Copy the url written after 'Forwarding' and before '->' (https://xxxxxxxxxxxxxxxxxx.io). This is the ngrok webhook url.
 
-- Fill in the config
+- Fill in the config 
 
 Sellix:  
 
